@@ -39,5 +39,7 @@ doc/html
 doc/latex
 doc/refman.pdf
 
+doxygen_log.txt
+
 # Exe
 *.exe
